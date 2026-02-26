@@ -60,7 +60,7 @@ C.R.I.P.T.A purificou seu servidor
 🥶⃤🥶⃤🥶⃤🥶⃤🥶⃤🥶⃤
 C.R.I.P.T.A purificou seu servidor
 
-https://discord.gg/GpaVsbCJEX"""
+https://discord.com/channels/1474884924140945664/1474884924916895818"""
 
         print(Fore.YELLOW + "🚀 raid iniciado - 30 mensagens")
         for i in range(30):
